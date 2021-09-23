@@ -12,7 +12,7 @@ class Contenedor extends Component {
               src="https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2021/03/15/604ebe271e101.jpeg"
               alt="Imagen de un perrito"
             />
-            <figcaption>Es una imagen de un perrito 🐶</figcaption>
+            <figcaption>Es una imagen de un perrito 🐶 d</figcaption>
           </figure>
         </div>
         <p>
