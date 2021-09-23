@@ -1,0 +1,24 @@
+.Contenedor {
+  background-color: #fd6f96;
+  width: 100%;
+  height: 25rem;
+}
+
+.Contenedor > h1 {
+  padding-top: 10px;
+  text-align: center;
+}
+
+.Contenedor__img {
+  height: 20rem;
+  width: 100vw;
+}
+
+img {
+  height: 15rem;
+  border-radius: 50%;
+}
+
+figcaption {
+  text-align: justify;
+}
